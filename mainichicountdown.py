@@ -4,7 +4,7 @@
 from datetime import datetime
 import downloadimage.downloadimage
 
-yonkoma_url = "http://***"
+yonkoma_url = "http://www.kadokawa.co.jp/sp/soraoto/image/yonkoma/"
 jpg_extension = ".jpg"
 
 now = datetime.now()
